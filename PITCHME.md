@@ -15,7 +15,7 @@
 * Every June, more than 40,000 hams throughout North America set up temporary transmitting stations in public places to demonstrate ham radio's science, skill and service to our communities and our nation. It combines public service, emergency preparedness, community outreach, and technical skills all in a single event. -**ARRL**
 ---?image=BG.jpg
 #### Quick Facts
-- Official FD Operations (radios on to radios off) run from 11:00 AM to Saturday the 24th to 11:00 AM Sunday the 25th
+- Official FD Operations (radios on to radios off) run from 11:00 AM on Saturday the 23rd to 11:00 AM Sunday the 24th
 - Inactive, new, or non hams can operate the GOTA station |
 - You can participate at as many FD sites as you wish, as long as you don't make a QSO between them |
 - The site is open to the public from noon to 4:00 PM on the 25th |
@@ -55,10 +55,6 @@
   <tr class="fragment">
     <td><span style="font-size:0.6em">~Noon</span></td>
     <td><span style="font-size:0.6em">Lunch from Subway</span></td>
-  </tr>
-  <tr class="fragment">
-    <td><span style="font-size:0.6em">6:00 PM to ?</span></td>
-    <td><span style="font-size:0.6em">BYOR, sign up with Rick Aragon, AE7VP</span></td>
   </tr>
   <tr class="fragment">
     <td><span style="font-size:0.6em">7:00 PM to 8:00 PM</span></td>
@@ -102,22 +98,22 @@
     <tr>
     <tr class="fragment">
     <td><span style="font-size:0.6em">1:00 PM to 1:50</span></td>
-    <td><span style="font-size:0.6em">Station Grounding Dave WB7ESV ""</span></td>
+    <td><span style="font-size:0.6em">Station Grounding Dave WB7ESV</span></td>
   </tr>
     <tr>
     <tr class="fragment">
     <td><span style="font-size:0.6em">2:00 to 2:50</span></td>
     <td><span style="font-size:0.6em">ARES 101</span></td>
   </tr>
-    <tr>
-    <tr class="fragment">
-    <td><span style="font-size:0.6em">3:00 to 3:50</span></td>
-    <td><span style="font-size:0.6em">EYEWARN by N07DE</span></td>
-</tr>
 </table>
 ---?image=BG.jpg
 ### Saturday, June 23rd Continued
 <table>
+<tr>
+<tr class="fragment">
+<td><span style="font-size:0.6em">3:00 to 3:50</span></td>
+<td><span style="font-size:0.6em">EYEWARN by N07DE</span></td>
+</tr>
   <tr>
     <th><span style="font-size:0.6em">Time</span></th>
     <th><span style="font-size:0.6em">Event</span></th>
