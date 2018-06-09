@@ -102,13 +102,18 @@
     <tr>
     <tr class="fragment">
     <td><span style="font-size:0.6em">1:00 PM to 1:50</span></td>
-    <td><span style="font-size:0.6em">Dave WB7ESV ""</span></td>
+    <td><span style="font-size:0.6em">Station Grounding Dave WB7ESV ""</span></td>
   </tr>
     <tr>
     <tr class="fragment">
     <td><span style="font-size:0.6em">2:00 to 2:50</span></td>
-    <td><span style="font-size:0.6em">Tentative presentation on the 630 meter band</span></td>
+    <td><span style="font-size:0.6em">ARES 101</span></td>
   </tr>
+    <tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em">3:00 to 3:50</span></td>
+    <td><span style="font-size:0.6em">EYEWARN by N07DE</span></td>
+</tr>
 </table>
 ---?image=BG.jpg
 ### Saturday, June 23rd Continued
