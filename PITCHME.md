@@ -18,7 +18,7 @@
 - Official FD Operations (radios on to radios off) run from 11:00 AM on Saturday the 23rd to 11:00 AM Sunday the 24th
 - Inactive, new, or non hams can operate the GOTA station |
 - You can participate at as many FD sites as you wish, as long as you don't make a QSO between them |
-- The site is open to the public from noon to 4:00 PM on the 25th |
+- The site is open to the public from noon to 4:00 PM on the 24th |
 - If you want to operate, sign up with Tim AF7TM ahead of time |
 ---?image=BG.jpg
 #### FD 2018 Goals
@@ -109,7 +109,7 @@
 ---?image=BG.jpg
 ### Saturday, June 23rd Continued
 <table>
-  <tr class="fragment">
+  <tr>
   <td><span style="font-size:0.6em">3:00 to 3:50</span></td>
   <td><span style="font-size:0.6em">EYEWARN by N07DE</span></td>
 </tr>
@@ -118,7 +118,7 @@
     <td><span style="font-size:0.6em">Pot Luck</span></td>
   </tr>
 </table>
-<h3>Sunday, June 25th</h3>
+<h3>Sunday, June 24th</h3>
 <table>
   <tr>
     <th><span style="font-size:0.6em">Time</span></th>
