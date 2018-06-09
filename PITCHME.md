@@ -109,15 +109,10 @@
 ---?image=BG.jpg
 ### Saturday, June 23rd Continued
 <table>
-<tr>
-<tr class="fragment">
-<td><span style="font-size:0.6em">3:00 to 3:50</span></td>
-<td><span style="font-size:0.6em">EYEWARN by N07DE</span></td>
+  <tr class="fragment">
+  <td><span style="font-size:0.6em">3:00 to 3:50</span></td>
+  <td><span style="font-size:0.6em">EYEWARN by N07DE</span></td>
 </tr>
-  <tr>
-    <th><span style="font-size:0.6em">Time</span></th>
-    <th><span style="font-size:0.6em">Event</span></th>
-  </tr>
    <tr>
     <td><span style="font-size:0.6em">6:00 PM to 7:30 PM</span></td>
     <td><span style="font-size:0.6em">Pot Luck</span></td>
